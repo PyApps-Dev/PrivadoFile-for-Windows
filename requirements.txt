@@ -1,0 +1,10 @@
+tkinter
+customtkinter
+cryptography
+subprocess
+webview
+cryptography
+random
+time
+hashlib
+threading
