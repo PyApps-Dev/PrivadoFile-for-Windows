@@ -1,9 +1,8 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-[![License](https://img.shields.io/badge/License-GPL%20v3-red)](https://github.com/QuantumSoftwareGroup/PrivadoFile/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPL%20v3-red)](https://github.com/PyApps-Dev/PrivadoFile-for-Windows/blob/main/README.md)
 ![OS](https://img.shields.io/badge/OS-Windows-3b3b3b)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)](https://www.python.org/)
 [![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange)](https://customtkinter.tomschimansky.com/)
-
 [![Download Source Code](https://img.shields.io/badge/DOWNLOAD-SOURCE%20CODE-green?logo=python&logoColor=green)](https://github.com/PyApps-Dev/PrivadoFile-for-Windows/archive/refs/heads/main.zip)
 ![Download](https://img.shields.io/github/downloads/PyApps-Dev/PrivadoFile-for-Windows/total?label=DOWNLOADS&square&color=green)
 
