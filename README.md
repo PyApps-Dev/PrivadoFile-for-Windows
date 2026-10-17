@@ -5,7 +5,7 @@
 [![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange)](https://customtkinter.tomschimansky.com/)
 
 [![Download Source Code](https://img.shields.io/badge/DOWNLOAD-SOURCE%20CODE-green?logo=python&logoColor=green)](https://github.com/PyApps-Dev/PrivadoFile-for-Windows/archive/refs/heads/main.zip)
-![Download](https://img.shields.io/github/downloads/QuantumSoftwareGroup/PrivadoFile/total?label=DOWNLOADS&square&color=green)
+![Download](https://img.shields.io/github/downloadsPyApps-Dev/PrivadoFile-for-Windows/total?label=DOWNLOADS&square&color=green)
 
 # PrivadoFile™
 
